@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**SurajAdsul/SurajAdsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working in Pune, India.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Focused on my private projects
+- 🇵🇹 Lerning frontend aspects of the programming. 
+
+
+##### BIO
+
+- 🏢 I'm currently working at **[Tech9](https://tech9.com/)**
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.go`
+- 🌍 I'm **Laravel enthusiast**
+- 💅 Visit [surajadsul.me](https://surajadsul.me)
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **laravel**, **development**, **design**, **branding**, **design thinking**
+- 📫 Reach me: [twitter.com/surajadsul](https://twitter.com/surajadsul)
+- ⚡️ Random fact: Avid Netflix watcher
+{"mode":"full","isActive":false}
