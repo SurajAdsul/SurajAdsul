@@ -31,7 +31,7 @@ A macOS menubar app. Select text anywhere and press a hotkey to improve it, fix 
 
 ### 📘 I wrote an ebook
 
-**[Stop Coding Alone](https://surajadsul.me)**: *Developing a mindset for the Exponential Age.* How engineers can work alongside AI instead of competing with it.
+**[Stop Coding Alone](https://www.surajadsul.me/ebooks/ThinkPiece-Suraj%20Adsul.pdf)**: *Developing a mindset for the Exponential Age.* How engineers can work alongside AI instead of competing with it.
 
 ### 🔒 Private builds
 
