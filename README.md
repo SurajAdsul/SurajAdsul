@@ -18,7 +18,11 @@
 ### 🚀 What I'm building
 
 **[Agent Factory](https://agentfactory.live)**: *Hand it a ticket. Get a pull request.*<br/>
+🔗 [https://agentfactory.live](https://agentfactory.live)<br/>
 Autopilot for your backlog. It runs coding agents like Claude Code and Codex on a branch of their own, through built-in or custom workflows. Then it runs your checks, reviews the diff and opens the PR. You approve and merge. A control plane keeps every job and run, and workers on your own machines run the agents.
+
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,tailwind,sqlite,docker,astro,cloudflare" height="32" /><br/>
+<sub>also Effect · Fastify · Drizzle</sub>
 
 <p align="center">
   <a href="https://agentfactory.live/assets/video/intro-d196e19a.mp4">
@@ -28,7 +32,11 @@ Autopilot for your backlog. It runs coding agents like Claude Code and Codex on 
 </p>
 
 **[CuePilot](https://cuepilot.pages.dev)**: *Select text. Press ⇧⌘A. Get it rewritten in place.*<br/>
-A free menu bar app for Mac. Select text in any app, pick an action, and CuePilot sends it to the AI provider you choose (OpenAI, Anthropic, Google, OpenRouter or a local model), then pastes the result where you were typing. It fixes grammar, improves and paraphrases writing, summarizes, explains, finds action items and drafts Slack and email replies in the conversation's language, Hinglish included. Assistant modes cover code, docs and support, and a `gpt:` quick query works in any text field. Prompts are tuned against an eval suite, and the app is signed, notarized and updates itself. Built with Electron, React, Effect, the AI SDK and a small Swift helper.
+🔗 [https://cuepilot.pages.dev](https://cuepilot.pages.dev)<br/>
+A free menu bar app for Mac. Select text in any app, pick an action, and CuePilot sends it to the AI provider you choose (OpenAI, Anthropic, Google, OpenRouter or a local model), then pastes the result where you were typing. It fixes grammar, improves and paraphrases writing, summarizes, explains, finds action items and drafts Slack and email replies in the conversation's language, Hinglish included. Assistant modes cover code, docs and support, and a `gpt:` quick query works in any text field. Prompts are tuned against an eval suite, and the app is signed, notarized and updates itself.
+
+<img src="https://skillicons.dev/icons?i=ts,electron,react,vite,tailwind,swift,supabase,astro,cloudflare" height="32" /><br/>
+<sub>also Effect · Vercel AI SDK</sub>
 
 <p align="center">
   <a href="https://cuepilot.pages.dev/video/film-a7ade050.mp4">
