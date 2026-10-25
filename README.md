@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://agentfactory.live"><img src="https://img.shields.io/badge/Agent_Factory-agentfactory.live-155dfc?style=flat-square&logo=robotframework&logoColor=white" /></a>
+  <a href="https://cuepilot.pages.dev"><img src="https://img.shields.io/badge/CuePilot-cuepilot.pages.dev-7c3aed?style=flat-square&logo=apple&logoColor=white" /></a>
   <a href="https://surajadsul.me"><img src="https://img.shields.io/badge/Website-surajadsul.me-18181b?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/surajadsul"><img src="https://img.shields.io/badge/X-@surajadsul-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Claude_Certified_Architect-Professional-D97757?style=flat-square&logo=anthropic&logoColor=white" />
@@ -26,8 +27,15 @@ Autopilot for your backlog. It runs coding agents like Claude Code and Codex on 
   <sub>▶️ <a href="https://agentfactory.live/assets/video/intro-d196e19a.mp4">Watch the 73-second launch video</a>: one bug report, 12 agent runs, 10 stages, PR #23 for $3.72</sub>
 </p>
 
-**CuePilot**: *AI writing help in every Mac app.*<br/>
-A macOS menubar app. Select text anywhere and press a hotkey to improve it, fix grammar, change the tone, shorten it or draft replies. It also has assistant modes for code review and docs, and a `gpt:` quick query that works in any text field. Built with Electron, React and a native Node addon.
+**[CuePilot](https://cuepilot.pages.dev)**: *Select text. Press ⇧⌘A. Get it rewritten in place.*<br/>
+A free menu bar app for Mac. Select text in any app, pick an action, and CuePilot sends it to the AI provider you choose (OpenAI, Anthropic, Google, OpenRouter or a local model), then pastes the result where you were typing. It fixes grammar, improves and paraphrases writing, summarizes, explains, finds action items and drafts Slack and email replies in the conversation's language, Hinglish included. Assistant modes cover code, docs and support, and a `gpt:` quick query works in any text field. Prompts are tuned against an eval suite, and the app is signed, notarized and updates itself. Built with Electron, React, Effect, the AI SDK and a small Swift helper.
+
+<p align="center">
+  <a href="https://cuepilot.pages.dev/video/film-a7ade050.mp4">
+    <img src="https://cuepilot.pages.dev/og.png" width="640" alt="CuePilot launch video" />
+  </a><br/>
+  <sub>▶️ <a href="https://cuepilot.pages.dev/video/film-a7ade050.mp4">Watch the 70-second launch video</a> · <a href="https://cuepilot.pages.dev/download">Download for Mac</a></sub>
+</p>
 
 ### 📘 I wrote an ebook
 
