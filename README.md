@@ -17,8 +17,8 @@
 
 ### 🚀 What I'm building
 
-**[Agent Factory](https://agentfactory.live)**: *Hand it a ticket. Get a pull request.*<br/>
-🔗 [https://agentfactory.live](https://agentfactory.live)<br/>
+**Agent Factory** · [agentfactory.live](https://agentfactory.live)<br/>
+*Hand it a ticket. Get a pull request.*<br/>
 Autopilot for your backlog. It runs coding agents like Claude Code and Codex on a branch of their own, through built-in or custom workflows. Then it runs your checks, reviews the diff and opens the PR. You approve and merge. A control plane keeps every job and run, and workers on your own machines run the agents.
 
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,vite,tailwind,sqlite,docker,astro,cloudflare" height="32" /><br/>
@@ -31,8 +31,8 @@ Autopilot for your backlog. It runs coding agents like Claude Code and Codex on 
   <sub>▶️ <a href="https://agentfactory.live/assets/video/intro-d196e19a.mp4">Watch the 73-second launch video</a>: one bug report, 12 agent runs, 10 stages, PR #23 for $3.72</sub>
 </p>
 
-**[CuePilot](https://cuepilot.pages.dev)**: *Select text. Press ⇧⌘A. Get it rewritten in place.*<br/>
-🔗 [https://cuepilot.pages.dev](https://cuepilot.pages.dev)<br/>
+**CuePilot** · [cuepilot.pages.dev](https://cuepilot.pages.dev)<br/>
+*Select text. Press ⇧⌘A. Get it rewritten in place.*<br/>
 A free menu bar app for Mac. Select text in any app, pick an action, and CuePilot sends it to the AI provider you choose (OpenAI, Anthropic, Google, OpenRouter or a local model), then pastes the result where you were typing. It fixes grammar, improves and paraphrases writing, summarizes, explains, finds action items and drafts Slack and email replies in the conversation's language, Hinglish included. Assistant modes cover code, docs and support, and a `gpt:` quick query works in any text field. Prompts are tuned against an eval suite, and the app is signed, notarized and updates itself.
 
 <img src="https://skillicons.dev/icons?i=ts,electron,react,vite,tailwind,swift,supabase,astro,cloudflare" height="32" /><br/>
