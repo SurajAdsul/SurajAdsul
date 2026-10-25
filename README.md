@@ -10,7 +10,7 @@
   <a href="https://cuepilot.pages.dev"><img src="https://img.shields.io/badge/CuePilot-cuepilot.pages.dev-7c3aed?style=flat-square&logo=apple&logoColor=white" /></a>
   <a href="https://surajadsul.me"><img src="https://img.shields.io/badge/Website-surajadsul.me-18181b?style=flat-square&logo=googlechrome&logoColor=white" /></a>
   <a href="https://x.com/surajadsul"><img src="https://img.shields.io/badge/X-@surajadsul-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Claude_Certified_Architect-Professional-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <a href="https://www.credly.com/badges/4c8afb2f-3903-4bb6-93eb-6208744076a8/public_url"><img src="https://img.shields.io/badge/Claude_Certified_Architect-Professional-D97757?style=flat-square&logo=anthropic&logoColor=white" /></a>
 </p>
 
 ---
